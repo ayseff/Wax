@@ -76,7 +76,7 @@ Every project you select will be automatically added to the WiX projects referen
 
 ### (4) Create the directory mappings.
 
-If your projects need to deploy files into subdirectories of the ```INSTALLFOLDER```, you need to define or map them here.
+If you projects need to deploy files into subdirectories of the ```INSTALLFOLDER```, you need to define or map them here.
 If you are starting with an empty project, just click on the "+" in the rightmost column of each directory to create the WiX definitions. 
 If there are already directories defined in the WiX project, a combo box will appear where you can select the directory that maps to the projects output folder.
 
